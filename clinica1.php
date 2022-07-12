@@ -97,8 +97,9 @@ $aPacientes[] = array(
                             <td><?php echo $paciente["nombre"];?></td>
                             <td><?php echo $paciente["edad"];?></td>
                             <td><?php echo $paciente["peso"];?></td>
+
                         <?php } ?>
-                        
+                            </tr>
                     </tbody>
                 </table>
             </div>
